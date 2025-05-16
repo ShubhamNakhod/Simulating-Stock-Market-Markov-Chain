@@ -14,11 +14,11 @@ Features
 - Visualization of market state sequences
 - Easily extendable for multi-stock or multi-state analysis
 
-<pre>``` Project Structure
+<pre> ```Project Structure
 
 ├── Simulating Stock Market Markov Chain.ipynb   # Jupyter Notebook for simulation and plots
 ├── Simulation.png                               # Output plot of Markov Chain state evolution
-└── README.md                                    # Project documentation ```<pre> 
+└── README.md                                    # Project documentation``` </pre>
 
 Visualization
 The simulation output below shows how market states evolve over 50 time steps:
@@ -26,13 +26,13 @@ The simulation output below shows how market states evolve over 50 time steps:
 
 Installation
 Install required dependencies:
-<pre>```bash
-pip install numpy pandas matplotlib```<pre> 
+<pre> ```bash
+pip install numpy pandas matplotlib``` </pre>
 
 Usage
 Open the notebook:
-<pre>```bash
-jupyter notebook "Simulating Stock Market Markov Chain.ipynb" ```<pre> 
+<pre> ```bash
+jupyter notebook "Simulating Stock Market Markov Chain.ipynb"``` </pre>
 
 Run cells step by step to:
 - Define states and transition matrix
